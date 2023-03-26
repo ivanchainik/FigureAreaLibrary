@@ -1,0 +1,12 @@
+C:\Users\vanya\Desktop\FigureAreaLibrary\FigureAreaLibrary\bin\Debug\net6.0\FigureAreaLibrary.deps.json
+C:\Users\vanya\Desktop\FigureAreaLibrary\FigureAreaLibrary\bin\Debug\net6.0\FigureAreaLibrary.dll
+C:\Users\vanya\Desktop\FigureAreaLibrary\FigureAreaLibrary\bin\Debug\net6.0\FigureAreaLibrary.pdb
+C:\Users\vanya\Desktop\FigureAreaLibrary\FigureAreaLibrary\obj\Debug\net6.0\FigureAreaLibrary.csproj.AssemblyReference.cache
+C:\Users\vanya\Desktop\FigureAreaLibrary\FigureAreaLibrary\obj\Debug\net6.0\FigureAreaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\Desktop\FigureAreaLibrary\FigureAreaLibrary\obj\Debug\net6.0\FigureAreaLibrary.AssemblyInfoInputs.cache
+C:\Users\vanya\Desktop\FigureAreaLibrary\FigureAreaLibrary\obj\Debug\net6.0\FigureAreaLibrary.AssemblyInfo.cs
+C:\Users\vanya\Desktop\FigureAreaLibrary\FigureAreaLibrary\obj\Debug\net6.0\FigureAreaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vanya\Desktop\FigureAreaLibrary\FigureAreaLibrary\obj\Debug\net6.0\FigureAreaLibrary.dll
+C:\Users\vanya\Desktop\FigureAreaLibrary\FigureAreaLibrary\obj\Debug\net6.0\refint\FigureAreaLibrary.dll
+C:\Users\vanya\Desktop\FigureAreaLibrary\FigureAreaLibrary\obj\Debug\net6.0\FigureAreaLibrary.pdb
+C:\Users\vanya\Desktop\FigureAreaLibrary\FigureAreaLibrary\obj\Debug\net6.0\ref\FigureAreaLibrary.dll
